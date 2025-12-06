@@ -1,0 +1,5 @@
+name,phone,website,npi,address
+"Real Clinic Demo",+1-555-100-2000,https://www.example.com,1234567890,"1 Demo St, City"
+"Web Only Clinic",+1-555-200-3000,https://www.example.org,,"2 Web Ave"
+"Phone Only Clinic",+1-555-300-4000,,, "3 Phone Rd"
+"Fake Clinic",1234,https://not-a-real-domain.invalid,,"Unknown"
